@@ -11,9 +11,6 @@ I'm a **Minecraft plugin developer** and a **Python learner** who loves staying 
 
 ---
 
-### ⚙️ Customization (for your GitHub README)
-
-You can personalize it like this:
 ```md
 - 🔧 **Currently working on:** Developing a Minecraft plugin
 - 🧠 **Learning:** Java, Kotlin, and Spigot AP
