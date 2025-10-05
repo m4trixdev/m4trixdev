@@ -15,8 +15,8 @@ I'm a **Minecraft plugin developer** and a **Python learner** who loves staying 
 
 You can personalize it like this:
 ```md
-- 🔧 **Currently working on:** [Your current project or area]
-- 🧠 **Learning:** [Languages or skills you’re studying]
-- 🤝 **Open to collaborate on:** [Types of projects you like]
-- 💬 **Ask me about:** [Topics you’re good at]
-- 🌟 **Fun fact:** [Something unique about you]
+- 🔧 **Currently working on:** Developing a Minecraft plugin
+- 🧠 **Learning:** Java, Kotlin, and Spigot AP
+- 🤝 **Open to collaborate on:** Open-source Minecraft plugins
+- 💬 **Ask me about:** Minecraft plugin development
+- 🌟 **Fun fact:** I’ve created over 50 Minecraft plugins
