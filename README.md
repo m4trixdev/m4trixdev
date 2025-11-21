@@ -142,7 +142,7 @@ I'm always open to collaborate on:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_devmatrix_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:br.com.matrixdev@gmail.com)
-[![SpigotMC](https://img.shields.io/badge/SpigotMC-ED8106?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/members/m4trixdev/)
+[![SpigotMC](https://img.shields.io/badge/SpigotMC-ED8106?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/resources/authors/m4trixdev.2363698/)
 
 </div>
 
