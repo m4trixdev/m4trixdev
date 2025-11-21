@@ -157,8 +157,6 @@ I'm always open to collaborate on:
 
 ### 🐍 Contributions
 
-<img src="https://raw.githubusercontent.com/m4trixdev/m4trixdev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
