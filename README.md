@@ -24,13 +24,6 @@ fun_fact: "I learn something new every single day! 🌟"
 
 <div align="center">
 
-### 💻 My Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4trixdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=00F7F7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4trixdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7"/>
-
-</div>
-
 ## 🎯 What I'm Up To
 
 <table>
