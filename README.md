@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 I'm **Marcos**, but known as **Matrix** in the dev world. I'm passionate about creating unique Minecraft experiences through custom plugins and always exploring new technologies.
@@ -32,8 +30,6 @@ fun_fact: "I learn something new every single day! 🌟"
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4trixdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7"/>
 
 </div>
-
----
 
 ## 🎯 What I'm Up To
 
@@ -60,8 +56,6 @@ fun_fact: "I learn something new every single day! 🌟"
 </td>
 </tr>
 </table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -91,8 +85,6 @@ fun_fact: "I learn something new every single day! 🌟"
 
 </div>
 
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -108,24 +100,6 @@ fun_fact: "I learn something new every single day! 🌟"
 
 </div>
 
----
-
-## 🎮 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/m4trixdev/MatrixGPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m4trixdev&repo=MatrixGPT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
-
-<a href="https://github.com/m4trixdev/MatrixVender">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m4trixdev&repo=MatrixVender&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
-
-</div>
-
----
-
 ## 🤝 Let's Collaborate?
 
 I'm always open to collaborate on:
@@ -133,8 +107,6 @@ I'm always open to collaborate on:
 - 🌟 **Open Source Projects**
 - 💡 **Innovative ideas** and technical challenges
 - 📚 **Knowledge sharing**
-
----
 
 ## 💬 Get in Touch
 
@@ -146,8 +118,6 @@ I'm always open to collaborate on:
 
 </div>
 
----
-
 <div align="center">
 
 ### 📊 Recent Activity
@@ -156,8 +126,6 @@ I'm always open to collaborate on:
 <!--END_SECTION:activity-->
 
 ### 🐍 Contributions
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
 
